@@ -1,13 +1,13 @@
 {
-  "name": "venom-bot",
+  "name": "venom-bot-service",
   "version": "1.0.0",
-  "description": "",
+  "description": "Venom bot for WhatsApp group join detection",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "venom-bot": "^4.0.5",
-    "axios": "^1.6.2"
+    "venom-bot": "^5.0.5",
+    "axios": "^1.6.5"
   }
 }
